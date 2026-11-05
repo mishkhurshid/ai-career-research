@@ -4,6 +4,8 @@
 
 This page compares actual employer career listings and career programs. **An internship, new-graduate role, and experienced position can involve very different responsibilities, even when the job titles sound similar.**
 
+**Jump to:** [Internships](#internships) · [Entry-level](#entry-level-and-new-graduates) · [Experienced roles](#mid-level-and-senior-level-research) · [Additional examples](#additional-researched-job-descriptions-november-5-2026) · [Portfolio Roadmap](/portfolio-roadmap)
+
 ## Internships
 
 ### Palantir — Forward Deployed Software Engineer, Internship — Commercial
