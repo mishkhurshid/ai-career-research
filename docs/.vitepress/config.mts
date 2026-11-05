@@ -8,9 +8,10 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Start Here', link: '/start-here' },
       { text: 'AI Roles', link: '/roles/' },
       { text: 'Jobs by Level', link: '/job-levels' },
-      { text: 'Student Review', link: '/student-review' },
+      { text: 'Portfolio Roadmap', link: '/portfolio-roadmap' },
       { text: 'Skills', link: '/skills' },
       { text: 'Trends', link: '/trends' },
       { text: 'Sources', link: '/sources' }
@@ -18,12 +19,14 @@ export default defineConfig({
     sidebar: [
       { text: 'Career Research', items: [
         { text: 'Overview', link: '/' },
+        { text: 'Start Here: Choose a Role', link: '/start-here' },
         { text: 'Emerging AI Roles', link: '/roles/' },
         { text: 'Forward Deployed Engineer', link: '/roles/forward-deployed-engineer' },
         { text: 'Role Comparison', link: '/comparison' },
         { text: 'Internships & Jobs by Level', link: '/job-levels' },
         { text: 'NJIT Student Review', link: '/student-review' },
         { text: 'Skills & Tools', link: '/skills' },
+        { text: 'Student Portfolio Roadmap', link: '/portfolio-roadmap' },
         { text: 'Industry Trends', link: '/trends' },
         { text: 'Research Sources', link: '/sources' }
       ]}
