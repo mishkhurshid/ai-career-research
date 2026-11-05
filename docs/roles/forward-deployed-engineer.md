@@ -76,11 +76,15 @@ Palantir distinguishes forward deployed software engineers from product-developm
 
 This is a **proposed portfolio project**, not a completed application.
 
+## Why this career interests me
+
+I became interested in Forward Deployed Engineering after my professor introduced the role and explained how opportunities like this are emerging as AI continues to grow. I like that the job combines AI, software development, and solving real-world problems. I am still exploring career options, but I want to learn more about this field and what it takes to enter it.
+
 ## My research takeaway
 
-This career interests me because it combines building software with understanding people's problems. An FDE needs to do more than write code: they must ask good questions, collaborate with customers, test whether a solution actually works, and explain the results.
+Forward Deployed Engineers do more than write code. They also need to understand customer needs, collaborate with different teams, test whether their solutions work, and explain technical decisions clearly.
 
-The OpenAI examples are experienced-level roles, so they are not necessarily entry-level targets. A practical starting path would be to strengthen software engineering, APIs, databases, AI application development, and deployment skills, then build a portfolio showing end-to-end delivery.
+The OpenAI examples above ask for several years of experience, so they are longer-term career examples rather than entry-level targets. I could begin preparing by developing stronger skills in Python, APIs, databases, AI applications, and deployment, then building projects that demonstrate end-to-end problem solving.
 
 ## Research sources
 
