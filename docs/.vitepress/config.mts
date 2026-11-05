@@ -17,6 +17,7 @@ export default defineConfig({
       { text: 'Career Research', items: [
         { text: 'Overview', link: '/' },
         { text: 'Emerging AI Roles', link: '/roles/' },
+        { text: 'Forward Deployed Engineer', link: '/roles/forward-deployed-engineer' },
         { text: 'Role Comparison', link: '/comparison' },
         { text: 'Skills & Tools', link: '/skills' },
         { text: 'Industry Trends', link: '/trends' },
