@@ -78,6 +78,33 @@ These labels require extra care: **a company may not call a role “mid-level”
 
 **Evidence to prepare:** Secure integrations, evaluation results, technical architecture, and communication with nontechnical stakeholders.
 
+## Senior-level: additional verified employer example
+
+### Bubble — Senior Applied AI Engineer
+
+**[Official job description](https://jobs.ashbyhq.com/bubble/32a3ade2-1e62-4ad9-9ab8-32036d6f7b6b/)**
+
+**Location:** New York City. **Published base salary:** $201,000–$261,000, plus equity (as displayed during research on November 5, 2026).
+
+**Responsibilities:** Improve LLM reasoning and retrieval; develop and maintain production LLM pipelines; build evaluation and latency optimization processes; improve AI-assisted app-building workflows; and own AI feature quality through deployment and monitoring.
+
+**Employer requirements:** 5+ years of industry experience in software or ML engineering, or an advanced AI/ML/NLP degree with 3+ years of production experience. The listing also requests real experience shipping LLM features, agentic workflows, RAG, retrieval, and evaluation.
+
+**Evidence to prepare (research recommendation, not an employer-mandated portfolio):** A deployed LLM application with documented evaluations, failure analysis, retrieval testing, monitoring, and iteration history.
+
+**Career-level lesson:** Senior-level work requires demonstrating reliable production outcomes and ownership, not simply calling an LLM API.
+
+## Career-level comparison: what changes?
+
+| Career level | Typical focus | Strong portfolio or professional evidence |
+| --- | --- | --- |
+| Internship | Learn and contribute with mentorship | Tested code, a small working project, clear technical explanation |
+| Entry-level | Build features as part of a team | Deployed application, backend/API, database, documentation |
+| Mid-level | Independently deliver projects | Production integrations, ownership, evaluation, troubleshooting |
+| Senior | Own architecture, quality, and difficult tradeoffs | Shipped systems, measurable improvements, monitoring, leadership |
+
+*These are generalized research interpretations, not universal requirements. Specific employers define levels differently.*
+
 ## Additional emerging titles to investigate
 
 - AI Agent Engineer
