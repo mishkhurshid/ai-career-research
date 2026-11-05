@@ -9,6 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'AI Roles', link: '/roles/' },
+      { text: 'Jobs by Level', link: '/job-levels' },
       { text: 'Skills', link: '/skills' },
       { text: 'Trends', link: '/trends' },
       { text: 'Sources', link: '/sources' }
@@ -19,6 +20,7 @@ export default defineConfig({
         { text: 'Emerging AI Roles', link: '/roles/' },
         { text: 'Forward Deployed Engineer', link: '/roles/forward-deployed-engineer' },
         { text: 'Role Comparison', link: '/comparison' },
+        { text: 'Internships & Jobs by Level', link: '/job-levels' },
         { text: 'Skills & Tools', link: '/skills' },
         { text: 'Industry Trends', link: '/trends' },
         { text: 'Research Sources', link: '/sources' }
