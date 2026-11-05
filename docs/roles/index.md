@@ -2,7 +2,7 @@
 
 AI career titles are not standardized. The same title can describe different work at different companies. Use the descriptions below as starting points, then compare actual job postings.
 
-## Forward Deployed Engineer (FDE)
+## [Forward Deployed Engineer (FDE)](/roles/forward-deployed-engineer)
 
 Works closely with customers to integrate and customize technology in real-world environments. Often combines software engineering, solution design, deployment, and stakeholder communication. Some positions focus heavily on AI applications.
 
