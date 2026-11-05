@@ -105,6 +105,86 @@ These labels require extra care: **a company may not call a role “mid-level”
 
 *These are generalized research interpretations, not universal requirements. Specific employers define levels differently.*
 
+## Additional researched job descriptions — November 5, 2026
+
+These examples expand the employer sample. Job availability and pay may change; the linked employer listing is the source of truth.
+
+### Internship — Hex: AI Engineer Intern
+
+**[Official posting](https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6)** · San Francisco · Hybrid · **Advertised compensation:** $11,000/month plus housing stipend.
+
+**Work:** Help develop AI-powered data tools, design experiments, evaluate AI results, and ship product features with engineering and product teams.
+
+**Evidence to develop:** Python or software projects, experimental evaluations, an AI feature demo, and collaboration examples.
+
+### Internship — Scout AI: AI Engineer Intern, Summer 2027
+
+**[Official posting](https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99)** · Sunnyvale, California · On-site · **Advertised compensation:** $45–$65/hour.
+
+**Work:** Prototype and test multimodal AI models for robotics and autonomous systems.
+
+**Evidence to develop:** Machine-learning experiments, Python, reproducible tests, and documented model evaluation. This is a specialized robotics/defense example, not a typical LLM app internship.
+
+### Mid-level example — PermitFlow: Applied AI Engineer
+
+**[Official posting](https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90/)** · New York City · Hybrid · **Advertised compensation:** $175,000–$250,000 plus equity.
+
+**Work:** Ship AI products and agentic workflows for construction permitting and compliance.
+
+**Employer requirements:** 3+ years of software or ML engineering after a bachelor's or master's degree; production AI/ML products, multi-step systems, strong backend and API development, and some frontend experience.
+
+**Evidence to develop:** Production-quality backend/API application, end-to-end AI workflow, tests, and reliability notes.
+
+**Level note:** Classified here as a *mid-level research example* based on the stated 3+ years requirement; the employer's title does not explicitly say “mid-level.”
+
+### Mid-level example — Dexmate: Applied AI Engineer, Physical AI Platform
+
+**[Official posting](https://jobs.ashbyhq.com/dexmate/a71df3b6-5248-442d-b1cf-cd7ae450190a)** · **Advertised compensation:** $120,000–$300,000.
+
+**Work:** Build AI agents with tool calling, memory, multimodal inputs, and production monitoring for software and robotics.
+
+**Employer requirements:** 3+ years in software/ML engineering; Python; production LLM or agent applications; RAG, orchestration, or evaluation.
+
+**Evidence to develop:** An agent that uses tools, records errors, has measurable evaluations, and includes safeguards.
+
+**Level note:** Mid-level research classification based on minimum experience, not an employer-specified level.
+
+### Mid-level example — Clera: Applied AI Engineer
+
+**[Official posting](https://jobs.ashbyhq.com/Clera/5e268976-cfd4-4518-af69-9f7210872667)** · San Francisco · On-site · **Advertised compensation:** $150,000–$250,000 plus equity.
+
+**Work:** Build reliable production AI agents, memory systems, evaluation harnesses, and failure recovery.
+
+**Employer requirements:** At least 3 years building and shipping production LLM agents; Python, agent orchestration, retrieval/memory, and production evaluation.
+
+**Evidence to develop:** Agent evaluation suite, retry/failure recovery tests, logging, and real user workflows.
+
+**Level note:** The substantial production-agent requirement makes this more specialized than a generic mid-level software job.
+
+### Mid-level example — Rowspace: Applied AI Engineer
+
+**[Official posting](https://jobs.ashbyhq.com/rowspace/2e05ca78-e2f8-4612-81dd-ae003c4509a8/)** · **Advertised compensation:** $150,000–$300,000.
+
+**Work:** Build AI workflows for investment research, knowledge graphs, source traceability, and evaluation.
+
+**Employer requirements:** 3+ years in ML, AI research, or applied AI; LLMs, RAG, agent workflows, retrieval, and evaluation frameworks.
+
+**Evidence to develop:** A source-grounded financial research assistant with citations, tests, and a clear error analysis.
+
+**Level note:** Research classification based on the 3+ years requirement.
+
+## Skills repeated across the sampled job descriptions
+
+| Skill | Evidence from postings | Student portfolio idea |
+| --- | --- | --- |
+| Python and backend engineering | PermitFlow, Dexmate, Clera | Documented Python API with automated tests |
+| LLMs, RAG, and agents | Dexmate, Clera, Rowspace | Tool-using assistant with source retrieval |
+| Evaluation and reliability | Hex, Clera, Rowspace | Small benchmark dataset and failure analysis |
+| Customer/business understanding | PermitFlow, Rowspace | Problem statement, user workflow, demo |
+| Deployment and ownership | PermitFlow, Dexmate, Clera | Deployed app, monitoring notes, README |
+
+**Interpretation:** A credible AI engineering portfolio should show a working application **and** evidence that its outputs are tested and its failures are understood. This is a synthesis of the listings, not a quote from any single employer.
+
 ## Additional emerging titles to investigate
 
 - AI Agent Engineer
