@@ -7,13 +7,16 @@ hero:
   tagline: Understand emerging job titles, real-world responsibilities, essential skills, and evolving career paths.
   actions:
     - theme: brand
-      text: Explore AI Roles
-      link: /roles/
+      text: Start Here: Choose a Career
+      link: /start-here
     - theme: alt
-      text: Compare Careers
-      link: /comparison
+      text: Browse Internships & Jobs
+      link: /job-levels
 
 features:
+  - title: Student Portfolio Roadmap
+    details: Turn employer skill requirements into realistic projects, demos, and case studies.
+    link: /portfolio-roadmap
   - title: Emerging AI Roles
     details: Learn how AI engineering, forward deployment, and agent development differ.
     link: /roles/
