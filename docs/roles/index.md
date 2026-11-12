@@ -1,35 +1,18 @@
-# Emerging AI Roles
+# Explore AI Careers
 
-AI career titles are not standardized. The same title can describe different work at different companies. Use the descriptions below as starting points, then compare actual job postings.
+Job titles overlap. Compare **actual responsibilities** before choosing a path.
 
-## [Forward Deployed Engineer (FDE)](/roles/forward-deployed-engineer)
+| Role | What you do | Key skills |
+| --- | --- | --- |
+| [Forward Deployed Engineer](/roles/forward-deployed-engineer) | Build solutions for specific customers | Python, APIs, communication |
+| AI / Applied AI Engineer | Ship AI-powered product features | Python, model APIs, testing |
+| LLM Engineer | Build and evaluate language-model apps | RAG, retrieval, evaluation |
+| AI Agent Engineer | Build tool-using AI workflows | Orchestration, APIs, safeguards |
+| AI Solutions Architect | Design AI systems for organizations | Cloud, architecture, security |
+| AI Platform / MLOps Engineer | Deploy and monitor AI systems | CI/CD, monitoring, infrastructure |
 
-Works closely with customers to integrate and customize technology in real-world environments. Often combines software engineering, solution design, deployment, and stakeholder communication. Some positions focus heavily on AI applications.
+**Which interests you?** Customer problem-solving → FDE. Product building → Applied AI. AI experiments → LLM engineering.
 
-**Common skills:** Python or TypeScript, APIs, data integration, cloud services, debugging, and customer communication.
+[Compare real employer jobs →](/job-levels) · [Plan a portfolio project →](/portfolio-roadmap)
 
-## AI Engineer
-
-Builds AI-enabled products and services by integrating models, data pipelines, application logic, evaluation, and deployment.
-
-**Common skills:** Python, software engineering, machine learning fundamentals, model APIs, testing, and monitoring.
-
-## LLM Engineer
-
-Specializes in applications powered by large language models, including retrieval-augmented generation (RAG), evaluation, prompt design, and inference workflows.
-
-**Common skills:** Python, embeddings, vector search, RAG, model evaluation, and performance optimization.
-
-## AI Agent Engineer
-
-Develops AI systems that can use tools, follow multi-step workflows, and interact with software services. Reliability, permissions, observability, and human oversight are important.
-
-**Common skills:** Tool calling, APIs, orchestration, state management, evaluation, and security.
-
-## AI Solutions Architect
-
-Designs end-to-end AI systems around business requirements, selecting infrastructure, integration patterns, governance controls, and deployment approaches.
-
-**Common skills:** Cloud architecture, system design, security, stakeholder discovery, and cost-performance tradeoffs.
-
-> Research tip: Search both the title and its responsibilities. Some employers use terms such as *Applied AI Engineer*, *AI Platform Engineer*, or *Machine Learning Engineer* for overlapping work.
+*These are research summaries, not universal employer definitions.*
