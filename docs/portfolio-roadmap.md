@@ -1,50 +1,28 @@
-# Student Portfolio Roadmap
+# Portfolio Roadmap
 
-## What counts as evidence?
+Build evidence for the work employers describe. These are **project suggestions**, not mandatory application requirements.
 
-Employers may ask for languages, frameworks, deployed systems, collaboration, or experience with AI evaluation. A portfolio can **demonstrate** these skills, but it does not replace required experience or guarantee a job.
+| Project | Careers to explore | What to show |
+| --- | --- | --- |
+| Python API + web interface | AI Engineer, FDE | Working code, tests, README |
+| Document Q&A with citations | LLM Engineer, Applied AI | Source links, evaluation, failures |
+| Customer-style AI workflow | FDE, Solutions Architect | Requirements, integration, demo |
+| Tool-using AI agent | AI Agent Engineer | Safeguards, error handling, tests |
+| Deployed AI app | MLOps, AI Platform | Deployment, monitoring, recovery |
 
-| Project | Roles it helps explore | Skills shown | Evidence to publish |
-| --- | --- | --- | --- |
-| Python API with a simple web interface | AI Engineer, FDE | Python, HTTP, testing, Git | README, tests, API examples, screenshots |
-| Document Q&A with cited answers | LLM Engineer, Applied AI | Retrieval, LLM APIs, evaluation | Sample dataset, accuracy checks, failure cases |
-| Customer-style AI workflow | FDE, Solutions Architect | Requirements, integration, communication | Problem statement, diagrams, demo, tradeoffs |
-| Tool-using AI agent | AI Agent Engineer | Tool calls, permissions, state, error handling | Tests, safeguards, human approval flow |
-| Deploy and monitor an AI app | MLOps, AI Platform | CI/CD, monitoring, reliability | Deployment guide, logs, incident scenarios |
+## A simple plan
 
-Use **synthetic or publicly licensed data**; do not upload private customer or patient records to an experimental app.
+1. **Choose one employer requirement** from a [job posting](/job-levels).
+2. **Build one small feature** that practices that skill.
+3. **Test it:** include successes, failures, and limitations.
+4. **Document it:** explain the problem, your decisions, and the evidence.
 
-## A realistic sequence for a student
+### Suggested FDE project
 
-### Project 1 — Build the fundamentals
+**AI Financial Document Navigator:** Use synthetic documents to explain billing terms and cite source passages. Start with a basic Python API; add AI features only after the basic workflow works.
 
-Create a small full-stack app with a Python backend, a database, and tests. Show how to run it locally and how errors are handled.
+**Verification to plan:** Test sample documents, check citations, and record errors. These are proposed checks—not completed results.
 
-### Project 2 — Add one AI feature
+Never upload private patient or customer records to a test app.
 
-For example, build a question-answering assistant over a few sample documents. Require citations to source passages, measure failures on a fixed test set, and describe the limitations.
-
-### Project 3 — Demonstrate customer delivery
-
-Write a one-page fictional client brief. Translate the requirements into an architecture diagram, implement the workflow, and record a short demo. Include what you would change after user feedback.
-
-### Project 4 — Improve production readiness
-
-Add authentication where appropriate, secrets management, automated tests, basic monitoring, and a rollback or recovery plan.
-
-## What to include in each GitHub case study
-
-- **Problem:** Who needs this and why?
-- **Role:** What did you personally design or implement?
-- **Architecture:** Which components and APIs are involved?
-- **Evaluation:** How did you measure whether it works?
-- **Limitations:** What fails and what would you improve?
-- **Evidence:** Repository, demo, screenshots, test results, and documentation.
-
-## Connecting research to your next step
-
-Read [real job descriptions](/job-levels) and highlight **explicit employer requirements**. Compare them with the skills in your project. Keep the distinction clear: project recommendations here are educational suggestions, not claims that any specific employer mandates these artifacts.
-
-## Suggested first choice
-
-For someone exploring **Forward Deployed Engineering**, the most informative starting project is a customer-style AI workflow with written requirements, an API integration, tests, and a working demo. It lets you practice both engineering and communication.
+[Research sources →](/sources)
