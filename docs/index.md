@@ -1,35 +1,29 @@
 ---
 layout: home
-
 hero:
   name: AI Career Research
-  text: Exploring the next generation of AI jobs
-  tagline: Understand emerging job titles, real-world responsibilities, essential skills, and evolving career paths.
+  text: Find your path in AI
+  tagline: Compare real jobs, skills, and portfolio ideas.
   actions:
     - theme: brand
-      text: Start Here: Choose a Career
+      text: Explore careers
       link: /start-here
     - theme: alt
-      text: Browse Internships & Jobs
+      text: View job postings
       link: /job-levels
-
 features:
-  - title: Student Portfolio Roadmap
-    details: Turn employer skill requirements into realistic projects, demos, and case studies.
-    link: /portfolio-roadmap
-  - title: Emerging AI Roles
-    details: Learn how AI engineering, forward deployment, and agent development differ.
+  - title: Compare roles
+    details: See how AI careers differ.
     link: /roles/
-  - title: Skills & Tools
-    details: Explore the technical foundations and practical skills behind AI careers.
+  - title: Real employer research
+    details: Internships through experienced positions, with sources.
+    link: /job-levels
+  - title: Build your portfolio
+    details: Turn job requirements into projects.
+    link: /portfolio-roadmap
+  - title: Skills checklist
+    details: Know what to learn next.
     link: /skills
-  - title: Industry Research
-    details: Track how AI responsibilities and job titles are evolving.
-    link: /trends
 ---
 
-## About this project
-
-AI is creating new career paths and changing existing software, data, and product roles. This site is a growing research portfolio examining what these jobs involve, what employers may expect, and how students can prepare.
-
-**Research approach:** Compare job descriptions across employers, distinguish common skills from company-specific requirements, and link to primary sources wherever possible.
+**Research note:** Job titles and openings change. Check each linked employer posting for current requirements and availability.
