@@ -1,23 +1,16 @@
-# AI Industry Trends
+# AI Career Trends
 
-## Roles are blending
+| Trend | Why it matters |
+| --- | --- |
+| Overlapping titles | Read tasks, not just job titles |
+| Production AI | Testing, reliability, and security matter |
+| Customer-facing engineering | Communication and technical delivery go together |
+| AI agents | Tool permissions and evaluation create new challenges |
 
-AI application development increasingly intersects with software engineering, data engineering, product development, and cloud operations. Job titles alone may not reveal the actual work.
+These are **qualitative observations**, not measured hiring-growth claims.
 
-## Deployment matters
+## How we check
 
-Beyond prototypes, employers may value evaluation, reliability, security, cost control, and integration into existing systems.
+For each employer posting, record its **source, review date, role, location, responsibilities, requirements, and availability**. Separate the employer's words from our portfolio recommendations.
 
-## Customer-facing engineering
-
-Forward-deployed and solutions-focused positions connect technical implementation with direct customer needs.
-
-## Agents and workflow automation
-
-Tool-using AI applications introduce new engineering challenges around permissions, testing, observability, and human oversight.
-
-## Research tracker
-
-For each posting reviewed, record: employer, job title, posting date, location, seniority, key responsibilities, required skills, and source URL. Review findings periodically rather than treating titles as permanent categories.
-
-These are qualitative themes, not claims about hiring growth rates or salary trends.
+[View researched postings →](/job-levels) · [Research sources →](/sources)
