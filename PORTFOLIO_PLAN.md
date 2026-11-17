@@ -31,7 +31,7 @@
 | Home / About | 1–2 sentence introduction; enterprise AI student at NJIT; concise purpose | Planned |
 | Projects | 2–4 cards with role, outcome and links; honest descriptions | Planned |
 | GitHub profile | Link to own profile | https://github.com/mishkhurshid |
-| LinkedIn profile | Link to own profile, no guessed URL | **Needs user-provided link** |
+| LinkedIn profile | Link to own profile, no guessed URL | https://www.linkedin.com/in/mishal-khurshid-2b61a4277/ (user-provided; link functionality not independently checked) |
 | Résumé | Downloadable/readable PDF or accessible page, no invented credentials | **Needs supplied, checked artifact** |
 | Project repository 1 — STAR (T-shirt) | Repository and, when working, site | https://github.com/mishkhurshid/is-117-brand-studio / https://mishkhurshid.github.io/is-117-brand-studio/ |
 | Project repository 2 — Tastee Cafe (group business) | Repository and research documentation site | https://github.com/mishkhurshid/is117-group-business / https://mishkhurshid.github.io/is117-group-business/ |
@@ -62,7 +62,7 @@ For each incoming issue: record **implement / investigate / defer / decline** wi
 
 ## Immediate open work
 - Create **own portfolio repository**, add this plan and link it here.
-- Supply actual LinkedIn URL and readable résumé.
+- Verify LinkedIn link and supply readable résumé.
 - Request actual peer feedback and document decision, linked revision, verification and reviewer retry.
 - Build/deploy the portfolio in a later milestone, not required for Plan.
 - Verify AI-assisted text and project claims against originals.
